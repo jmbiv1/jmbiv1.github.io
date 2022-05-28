@@ -1,37 +1,23 @@
 ## The Geneva Convention
 
-You can use the [editor on GitHub](https://github.com/jmbiv1/jmbiv1.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Please consider backing us on [Kickstarter](https://kickstarter.com) to be one of the first people to get this game.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Summary
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Have you ever wanted to commit war crimes from the comfort of your own home? If so, this is the game for you.
 
-```markdown
-Syntax highlighted code block
+Players take turns scheming, conniving, and committing war crimes to be the first ~~dictator~~ player to reach 3 points.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Purpose
 
-1. Numbered
-2. List
+Our goal with this game is two-fold. 
 
-**Bold** and _Italic_ and `Code` text
+1) We want to provide an entertaining way to learn about geopolitics and war
+2) We want to contribute 10% of all profits to humanitarian efforts by the [American Red Cross](https://www.redcross.org/)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Contact
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jmbiv1/jmbiv1.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Comments, questions, or critiques? Let us know on [Twitter](https://twitter.com) or email us at example@gmail.com
