@@ -14,8 +14,8 @@ Players take turns scheming, conniving, and committing war crimes to be the firs
 
 Our goal with this game is two-fold. 
 
-1) We want to provide an entertaining way to learn about geopolitics and war
-2) We want to contribute 10% of all profits to humanitarian efforts by the [American Red Cross](https://www.redcross.org/)
+1. We want to provide an entertaining way to learn about geopolitics and war
+2. We want to contribute 10% of all profits to humanitarian efforts by the [American Red Cross](https://www.redcross.org/)
 
 
 ### Contact
