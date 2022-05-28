@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## The Geneva Convention
 
 You can use the [editor on GitHub](https://github.com/jmbiv1/jmbiv1.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
